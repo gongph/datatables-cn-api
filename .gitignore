@@ -1,0 +1,8 @@
+# gitbook
+_book/
+
+# npm
+node_modules/
+
+# build
+.project
