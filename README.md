@@ -4,9 +4,9 @@ jQuery 插件 DataTables 中文API，翻译计划正在完善中，敬请期待�
 - QQ群：493262938（进群请备注：翻译计划）
 
 ## 目录
-* [实例](./examples/README.md)
+* [示例](./examples/README.md)
   - [初始化(基础篇)](./examples/basic-initialisation/README.md)
-  - [初始化(高级篇)](./examples/advanced-initialisation/README.md)
+  - [初始化(进阶篇)](./examples/advanced-initialisation/README.md)
   - [数据源](./examples/data-sources/README.md)
   - [API](./examples/api/README.md)
   - [Ajax](./examples/ajax/README.md)

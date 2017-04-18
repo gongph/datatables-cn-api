@@ -1,9 +1,11 @@
 # Summary
 
 * [目录](README.md)
-* [实例](./examples/README.md)
+* [示例](./examples/README.md)
   - [初始化(基础篇)](./examples/basic-initialisation/README.md)
-  - [初始化(高级篇)](./examples/advanced-initialisation/README.md)
+    - [零配置](./examples/basic-initialisation/zero-config.md)
+    - [功能启用/禁用](./examples/basic-initialisation/feature-enable-disable.md)
+  - [初始化(进阶篇)](./examples/advanced-initialisation/README.md)
   - [数据源](./examples/data-sources/README.md)
   - [API](./examples/api/README.md)
   - [Ajax](./examples/ajax/README.md)
