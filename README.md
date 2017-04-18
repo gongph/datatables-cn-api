@@ -1,8 +1,7 @@
 # DataTables 中文API
-jQuery 插件 DataTables 中文API，正在完善中，敬请期待！另外，如果你热衷 DataTables，并且对英文感兴趣，请联系我！
+jQuery 插件 DataTables 中文API，翻译计划正在完善中，敬请期待！另外，如果你热衷 DataTables，并且对英文感兴趣，请加入我们！
 
-- QQ：1769617251
-- Email: gongph@foxmail.com
+- QQ群：493262938（进群请备注：翻译计划）
 
 ## 目录
 * [实例](./examples/README.md)
