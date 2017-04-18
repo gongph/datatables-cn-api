@@ -1,0 +1,25 @@
+{
+    "author": "gongph",
+    "title": "DataTables中文API",
+	"description" : "jQuery 插件 DataTables 中文 API",
+	"generator": "site",
+	"gitbook" : "2.x.x",
+	"language" : "zh-tw",
+	"styles": {
+        "website": "styles/website.css"
+    },
+    "plugins": [
+         "-search",
+         "-lunr",
+         "-sharing",
+         "include-codeblock",
+         "asciitree",
+         "anchors"
+     ],
+     "pluginsConfig": {
+	     "asciitree": {
+            "leadingChar": "no need, because plugin will guess leadingChar.",
+            "trimRight": true
+        }
+     }
+}
