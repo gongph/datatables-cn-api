@@ -5,6 +5,7 @@
   - [初始化(基础篇)](./examples/basic-initialisation/README.md)
     - [零配置](./examples/basic-initialisation/zero-config.md)
     - [功能启用/禁用](./examples/basic-initialisation/feature-enable-disable.md)
+    - [缺省排序](./examples/basic-initialisation/default-ordering.md)
   - [初始化(进阶篇)](./examples/advanced-initialisation/README.md)
   - [数据源](./examples/data-sources/README.md)
   - [API](./examples/api/README.md)
